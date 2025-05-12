@@ -1,4 +1,4 @@
-### Exp-1 ATM & BANKING SYSTEM
+# Exp-1 ATM & BANKING SYSTEM
 
 # AIM:
 To draw the UML diagram for ATM and Banking System.
